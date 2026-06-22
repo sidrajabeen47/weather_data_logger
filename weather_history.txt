@@ -1,0 +1,20 @@
+London | 21.20°C | None
+New York | 28.90°C | None
+Chennai | 31.10°C | None
+Dubai | 35.30°C | None
+Bangkok | 25.00°C | None
+Singapore | 27.40°C | None
+Chicago | 22.20°C | None
+Toronto | 27.30°C | None
+Toyota | 21.10°C | None
+London | 13.30°C | None
+Hyderabad | 30.10°C | None
+Paris | 19.30°C | None
+Berlin | 10.20°C | None
+Tokyo | 27.30°C | None
+Schenectady | 13.30°C | None
+12345 | 0.00°C | None
+mumbai123 | 0.00°C | None
+Los Angeles | 18.90°C | None
+Bangalore | 27.30°C | None
+Bankok | 26.30°C | None

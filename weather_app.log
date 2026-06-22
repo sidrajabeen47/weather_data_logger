@@ -1,0 +1,10 @@
+2026-06-20 12:02:54,233 - ERROR - Database connection failed: 1045 (28000): Access denied for user 'root'@'localhost' (using password: YES)
+2026-06-20 12:03:38,263 - INFO - Database connected successfully
+2026-06-20 12:03:56,304 - INFO - Validation PASSED for Hyderabad
+2026-06-20 12:07:28,243 - INFO - Database connected successfully
+2026-06-20 12:08:55,853 - INFO - Database connected successfully
+2026-06-20 12:09:41,855 - INFO - Database connected successfully
+2026-06-20 12:15:14,063 - INFO - Database connected successfully
+2026-06-20 12:15:26,537 - INFO - Validation PASSED for Hyderabad
+2026-06-22 19:17:25,914 - INFO - Database connected successfully
+2026-06-22 19:18:06,377 - INFO - Validation PASSED for Hyderabad
